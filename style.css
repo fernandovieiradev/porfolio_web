@@ -1,0 +1,41 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+
+}
+
+:root{
+
+    --background: #f8f9fa;
+    --texto: #6c757d;
+    --botoes-title: #17a2b8;
+    --texto-2: #343a40;
+    --texto-3: #212529;
+
+}
+
+@font-face {
+
+    font-family: 'Raleway';
+    src: url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,600;1,100;1,200&family=Roboto+Slab:wght@100;200;300;500;800&display=swap');
+
+  }
+  
+  @font-face {
+
+    font-family: 'Lato';
+    src: url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,100;1,300;1,400&family=Raleway:ital,wght@0,100;0,600;1,100;1,200&family=Roboto+Slab:wght@100;200;300;500;800&display=swap');
+
+  }
+  
+  @font-face {
+
+    font-family: 'Poppins';
+    src: url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,100;1,300;1,400&family=Poppins:ital,wght@0,100;0,200;0,300;1,100&family=Raleway:ital,wght@0,100;0,600;1,100;1,200&family=Roboto+Slab:wght@100;200;300;500;800&display=swap');
+
+  }
+  
